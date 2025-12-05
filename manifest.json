@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "installerUrl": "https://yourdomain-or-github/KBIPSetup-1.2.3.exe",
+  "installerUrl": "https://github.com/lightwolf37/mkjbhcgvjblkhcgvjbklhg/blob/main/KbipSetup1.1.0.exe",
   "installerArgs": "/VERYSILENT /NORESTART",
   "sha256": "9A036900213EFB737596D6626EBC4EFC886710CAFBFD8098528A47B28E64735B",
   "releaseNotes": "Список изменений"
