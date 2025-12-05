@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "installerUrl": "https://github.com/lightwolf37/mkjbhcgvjblkhcgvjbklhg/raw/refs/heads/main/KbipSetup.exe",
   "installerArgs": "/VERYSILENT /NORESTART",
   "sha256": "",
-  "releaseNotes": "Список изменений: \nДобавлен экспорт \nИзменение работы академического отпуска \nИзменение меню настроек"
+  "releaseNotes": "Список изменений: Изменена система обновлений"
 }
