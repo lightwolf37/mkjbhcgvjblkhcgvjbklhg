@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "installerUrl": "https://github.com/lightwolf37/mkjbhcgvjblkhcgvjbklhg/raw/refs/heads/main/KbipSetup.exe",
   "installerArgs": "/VERYSILENT /NORESTART",
   "sha256": "",
-  "releaseNotes": "Список изменений: Изменена система обновлений"
+  "releaseNotes": "Список изменений: 1. Убрано автоматическое закрытие 2. Добавлен выбор действия 3. Отложенная установка 4. Добавлен импорт из базы данных 5. Изменена система импортов. "
 }
